@@ -25,7 +25,7 @@
 	ignore = dirty
 [submodule "lib/SQLiteCpp"]
 	path = lib/SQLiteCpp
-	url = https://github.com/mc-server/SQLiteCpp.git
+	url = https://github.com/jamestait/SQLiteCpp.git
 	ignore = dirty
 [submodule "lib/libevent"]
 	path = lib/libevent
@@ -61,7 +61,7 @@
 	ignore = dirty
 [submodule "lib/sqlite"]
 	path = lib/sqlite
-	url = https://github.com/cuberite/sqlite.git
+	url = https://github.com/jamestait/sqlite.git
 	ignore = dirty
 [submodule "lib/tolua++"]
 	path = lib/tolua++
