@@ -44,3 +44,5 @@ parts:
         source: .
         organize:
             Cuberite.wrapper: bin/Cuberite.wrapper
+        snap:
+            - bin

@@ -110,3 +110,6 @@ Server/NewlyUndocumented.lua
 
 # Generated snap package
 cuberite_*_*.snap
+parts/
+prime/
+stage/
