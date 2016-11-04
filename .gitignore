@@ -108,3 +108,5 @@ Server/cuberite_api.lua
 Server/official_undocumented.lua
 Server/NewlyUndocumented.lua
 
+# Generated snap package
+cuberite_*_*.snap
