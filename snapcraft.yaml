@@ -1,5 +1,5 @@
 name: cuberite
-version: 0+20161107+git32b38fb-1
+version: 0+20161108+git0870649-1
 summary: Performant open source Minecraft server written in C++.
 description: |
     Cuberite is a Minecraft-compatible multiplayer game server that is written in C++ and designed to be efficient with memory and CPU, as well as having a flexible Lua Plugin API. Cuberite is compatible with the vanilla Minecraft client.
